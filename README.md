@@ -40,12 +40,11 @@ The goal of this repository is to:
 
 ```
 .
-├── notebooks/
-│   ├── week1_*.ipynb
-│   ├── week2_*.ipynb
-│   └── ...
-├── utils/
-│   └── helper_functions.py
+├── Module 1
+    ├── homework.ipynb
+    ├── ...
+├── Module 2 
+├── ...
 ├── requirements.txt
 └── README.md
 ```
